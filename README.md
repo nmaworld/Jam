@@ -1,2 +1,2 @@
-# Jam
+# jam
 Japan Monitor
